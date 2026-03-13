@@ -1,4 +1,5 @@
 # Jupyter Notebooks for Plotting Analysis of "Advancing Hurricane-Centric Simulations with ICON"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19002039.svg)](https://doi.org/10.5281/zenodo.19002039)
 
 ## Paper
 
