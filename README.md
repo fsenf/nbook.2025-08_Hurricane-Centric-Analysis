@@ -14,10 +14,10 @@ An overview is provided [in the overview notebook](nbooks/00-Overview.ipynb) as 
 
 ## Underlying Data
 
-The underlying post-processed data have been published at zenodo under [DOI](https://doi.org/pending)
+The underlying data are listed [here](Data.md).
 
 ## Python Environment and Dependencies
 
-All notebooks were run with the standard python environment. See environment.yml.
+All notebooks were run with the standard python environment. See [environment-standard.yml](environment-standard.yml).
 
 Some local tools have been used which were not collected into a package. These tools have been copied to the `tools/` directory of this repository.
